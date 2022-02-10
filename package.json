@@ -10,7 +10,7 @@
     "connected-react-router": "^6.7.0",
     "fabric": "^4.0.0-beta.7",
     "history": "^4.10.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2",
